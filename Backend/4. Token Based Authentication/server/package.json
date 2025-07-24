@@ -1,0 +1,20 @@
+{
+  "name": "token-based-authentication",
+  "version": "1.0.0",
+  "description": "Token Based Authentication Server",
+  "license": "ISC",
+  "author": "Md. Tahmid Sarker Mahi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "firebase-admin": "^13.4.0",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
